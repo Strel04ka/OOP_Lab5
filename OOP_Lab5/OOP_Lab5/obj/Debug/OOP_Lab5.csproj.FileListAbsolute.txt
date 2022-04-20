@@ -1,0 +1,7 @@
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\bin\Debug\OOP_Lab5.exe.config
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\bin\Debug\OOP_Lab5.exe
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\bin\Debug\OOP_Lab5.pdb
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\obj\Debug\OOP_Lab5.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\obj\Debug\OOP_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\obj\Debug\OOP_Lab5.exe
+C:\Users\Oleg\source\repos\OOP_Lab5\OOP_Lab5\obj\Debug\OOP_Lab5.pdb
